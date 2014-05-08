@@ -19,8 +19,8 @@
 }
 
 //Hotspot
-var passwordPlaceHolder = "密码";
-var passwordInvalidMsg  = "允许8~63个字符，只允许输入A~Z，a~z，0~9。";		
+var passwordPlaceHolder = "Password";
+var passwordInvalidMsg  = "8~63 characters, Only A~Z,a~z,0-9 allowed.";		
 
 
 /*=======================================Init function============================================*/
